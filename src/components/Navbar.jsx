@@ -4,9 +4,9 @@ const Navbar = () => {
 
 
     return (
-        <div className="mx-auto h-[100px] w-[100%] fixed m-4 flex justify-between items-center">
+        <div className="container mx-auto h-[100px] w-[100%] fixed m-4 flex justify-between items-center">
         {/* Left */}
-            <div className="font-primary text-green-400 m-6">
+            <div className="font-primary text-green-400 m-6 animate-pulse">
                 <Link to="home" className="cursor-pointer">
                 WulfCoDev
                 </Link>

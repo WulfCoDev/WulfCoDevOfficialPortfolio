@@ -4,7 +4,7 @@ const Work = () => {
 
 
     return (
-        <section id="work" className="h-screen w-screen flex justify-center items-center">
+        <section id="work" className="container mx-auto h-screen w-screen flex justify-center items-center">
             <div className="">
                 Work
             </div>
