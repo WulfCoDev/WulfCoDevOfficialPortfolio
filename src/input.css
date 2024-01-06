@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Beyonders";
+    src: url("src/fonts/Beyonders.woff");
+}
+
+@font-face {
+    font-family: "Designer";
+    src: url("src/fonts/Designer.woff");
+}
