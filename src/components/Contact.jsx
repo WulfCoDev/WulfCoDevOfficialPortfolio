@@ -14,7 +14,7 @@ const Contact = () => {
                   <FaGithub />  
                 </a>
                 <a href="https://www.linkedin.com/in/dev-christian-alexander/" target="_blank">
-                   <FaLinkedin /> 
+                    
                 </a>
                 
                 </div>
