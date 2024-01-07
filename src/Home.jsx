@@ -12,7 +12,6 @@ const Home = () => {
     return (
         <div className="container mx-auto">
             <Navbar />
-            <Sidebars />
             <div className="">
             <Landing />
             <About />
